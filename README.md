@@ -1,4 +1,3 @@
-# DailyPlaner
-My first application :)
+# Resume
 
-Application will be able to store your data, your plans
+ROKAS ANDREIKENAS RESUME
