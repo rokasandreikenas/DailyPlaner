@@ -104,6 +104,11 @@ a:after {
   color: #fff;
 }
 
+.header a{
+  font-size: 40px;
+}
+
+
 /* About Wrap */
 .about {
   background: #2c3e50;
